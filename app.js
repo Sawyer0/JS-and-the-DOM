@@ -10,4 +10,4 @@ const advice =
   "<p>Set aside specific blocks of time each week \
 	for your coursework. Add those blocks to your calendar and \
 	set reminders.</p>";
-newElement.insertAdjacentHTML('afterend', adviceString);
+newElement.insertAdjacentHTML('afterend', advice);
